@@ -59,3 +59,14 @@ td{
     border-bottom: 1px solid hsl(30, 18%, 87%);
     padding: 10px;
 }
+@media screen and (max-width:600px){
+    #white{
+        width: 100%;
+        border-radius: 0;
+        padding: 20px;
+    }
+    img{
+    border-radius: 0;
+}
+}
+
